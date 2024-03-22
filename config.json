@@ -1,33 +1,37 @@
 {
   "ascii": [
-    "███████╗██╗  ██╗███████╗██╗     ██╗",
-    "██╔════╝██║  ██║██╔════╝██║     ██║",
-    "███████╗███████║█████╗  ██║     ██║",
-    "╚════██║██╔══██║██╔══╝  ██║     ██║",
-    "███████║██║  ██║███████╗███████╗███████╗",
-    "╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝"
+    " ██████╗██╗  ██╗ █████╗ ██████╗ ███████╗██╗  ██╗███████╗██╗     ██╗",
+    "██╔════╝██║  ██║██╔══██╗██╔══██╗██╔════╝██║  ██║██╔════╝██║     ██║ ",
+    "██║     ███████║███████║██║  ██║███████╗███████║█████╗  ██║     ██║ ",
+    "██║     ██╔══██║██╔══██║██║  ██║╚════██║██╔══██║██╔══╝  ██║     ██║  ",
+    "╚██████╗██║  ██║██║  ██║██████╔╝███████║██║  ██║███████╗███████╗███████╗",
+    " ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝"
   ],
-  "title": "WebShell",
+  "title": "ChadShell",
   "username": "visitor",
-  "hostname": "webshell",
+  "hostname": "chadshell",
   "password": "050823",
-  "repoLink": "https://github.com/nasan016/webshell",
+  "repoLink": "https://github.com/maschad/terminal-portfolio",
   "social": {
-    "email": "your@email.com",
-    "github": "yourgithub",
-    "linkedin": "you"
+    "email": "chad.nehemiah94@gmail.com",
+    "github": "maschad",
+    "linkedin": "https://www.linkedin.com/in/chadnehemiah/"
   },
-  "aboutGreeting": "Hi stranger. Welcome to WebShell.",
+  "aboutGreeting": "Hi stranger. Welcome to chadshell.",
   "projects": [
+    ["gerrehbenta", "A Uniswap CLI tool to analyze pool data", "https://github.com/maschad/gerrehbenta"],
+    ["js-libp2p", "A peer-to-peer stack built for decentralized networks", "https://github.com/libp2p/js-libp2p"],
+    ["lodestar", "An Ethereum consensus client written in TypeScript", "https://github.com/ChainSafe/lodestar"],
     [
-      "GofeR",
-      "Vue.js reactivity in Go.",
-      "https://github.com/nasan016/gofer"
+      "zekvm-circuits",
+      "Zero-knowledge circuits for Ethereum's virtual machine",
+      "https://github.com/privacy-scaling-explorations/zkevm-circuits"
     ],
+    ["partnr", "A decentralized savings platform", "https://github.com/maschad/partnr"],
     [
-      "WebShell",
-      "Terminal styled website.",
-      "https://github.com/nasan016/webshell"
+      "covid19-banned-flights",
+      "Shows which countries are not accepting flights during the COVID-19 Pandemic",
+      "https://github.com/maschad/covid19-banned-flights"
     ]
   ],
   "colors": {
