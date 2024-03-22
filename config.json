@@ -30,7 +30,7 @@
     ["partnr", "A decentralized savings platform", "https://github.com/maschad/partnr"],
     [
       "covid19-banned-flights",
-      "Shows which countries are not accepting flights during the COVID-19 Pandemic",
+      "Shows which countries were not accepting flights during the COVID-19 pandemic",
       "https://github.com/maschad/covid19-banned-flights"
     ]
   ],
