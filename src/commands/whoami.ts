@@ -14,10 +14,7 @@ export const createWhoami = (): string[] => {
   const r = Math.floor(Math.random() * whoamiObj.message.length);
   whoami.push("<br>");
 
-  whoamiObj.message[r].forEach((ele, idx) => {
-    if (idx === whoamiObj.message[r].length - 1) {
-      ele += "<span class='command'>who am I?</span>";
-    }
+  whoamiObj.message[r].forEach((ele) => {
     whoami.push(ele);
   });
 
