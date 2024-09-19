@@ -9,6 +9,14 @@ const helpObj = {
       "Maybe there's something interesting."
     ],
     [
+      "'articles'",
+      "A few of my musings."
+    ],
+    [
+      "'talks'",
+      "I'm not a speaker."
+    ],
+    [
       "'whoami'",
       "A perplexing question."
     ],

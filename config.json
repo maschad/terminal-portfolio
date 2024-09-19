@@ -19,6 +19,7 @@
   },
   "aboutGreeting": "Hi stranger. Welcome to chadshell.",
   "projects": [
+    ["fuel-ts", "A TypeScript library for Fuel", "https://github.com/FuelLabs/fuel-ts"],
     ["gerrehbenta", "A Uniswap CLI tool to analyze pool data", "https://github.com/maschad/gerrehbenta"],
     ["js-libp2p", "A peer-to-peer stack built for decentralized networks", "https://github.com/libp2p/js-libp2p"],
     ["lodestar", "An Ethereum consensus client written in TypeScript", "https://github.com/ChainSafe/lodestar"],
@@ -33,6 +34,27 @@
       "Shows which countries were not accepting flights during the COVID-19 pandemic",
       "https://github.com/maschad/covid19-banned-flights"
     ]
+  ],
+  "articles": [
+    [
+      "The Future of Rollups",
+      "May 2024",
+      "https://www.calyptus.co/blog/the-future-of-rollups-an-interview-with-chad-n-senior-software-engineer-fuel-labs"
+    ],
+    [
+      "Sovereign Parallelized Rollups",
+      "April 2024",
+      "https://mirror.xyz/chadnehemiah.eth/j6frWclHODtZokXWyFGuUcpwJzRyLVyMj-o8ooeq6ZE"
+    ],
+    ["js-libp2p v1.0.0", "December 2023", "https://blog.libp2p.io/2023-12-12-js-libp2p/"],
+    [
+      "Advanced Unit and Snapshot Testing with React Native",
+      "July 2019",
+      "https://medium.com/gitconnected/advanced-unit-and-snapshot-testing-with-react-native-ea746feb5b2e"
+    ]
+  ],
+  "talks": [
+    ["State of js-libp2p in the browser and mobile", "November 2023", "https://www.youtube.com/watch?v=49p3VtTbXko&t=1s"]
   ],
   "colors": {
     "background": "#0C0623",

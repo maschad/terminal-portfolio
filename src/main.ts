@@ -5,7 +5,8 @@ import { ABOUT } from "./commands/about"
 import { DEFAULT } from "./commands/default";
 import { PROJECTS } from "./commands/projects";
 import { createWhoami } from "./commands/whoami";
-
+import { ARTICLES } from "./commands/articles";
+import { TALKS } from "./commands/talks";
 //mutWriteLines gets deleted and reassigned
 let mutWriteLines = document.getElementById("write-lines");
 let historyIdx = 0
@@ -28,7 +29,7 @@ const PRE_USER = document.getElementById("pre-user");
 const HOST = document.getElementById("host");
 const USER = document.getElementById("user");
 const PROMPT = document.getElementById("prompt");
-const COMMANDS = ["help", "about", "projects", "whoami", "repo", "banner", "clear"];
+const COMMANDS = ["help", "about", "projects", "articles", "talks", "whoami", "repo", "banner", "clear"];
 const HISTORY: string[] = [];
 const SUDO_PASSWORD = command.password;
 const REPO_LINK = command.repoLink;
@@ -230,6 +231,20 @@ function commandHandler(input: string) {
         break;
       }
       writeLines(PROJECTS);
+      break;
+    case 'articles':
+      if (bareMode) {
+        writeLines(["I don't want you to break the other articles.", "<br>"])
+        break;
+      }
+      writeLines(ARTICLES);
+      break;
+    case 'talks':
+      if (bareMode) {
+        writeLines(["I don't want you to break the other talks.", "<br>"])
+        break;
+      }
+      writeLines(TALKS);
       break;
     case 'repo':
       writeLines(["Redirecting to github.com...", "<br>"]);
