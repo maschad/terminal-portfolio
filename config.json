@@ -54,7 +54,8 @@
     ]
   ],
   "talks": [
-    ["State of js-libp2p in the browser and mobile", "November 2023", "https://www.youtube.com/watch?v=49p3VtTbXko&t=1s"]
+    ["State of js-libp2p in the browser and mobile", "November 2023", "https://www.youtube.com/watch?v=49p3VtTbXko"],
+    ["create-libp2p: Your P2P Network Your Way", "November 2024", "https://www.youtube.com/watch?v=kuiJjTxyvA0"]
   ],
   "colors": {
     "background": "#0C0623",
