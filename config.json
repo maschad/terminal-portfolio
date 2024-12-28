@@ -20,7 +20,7 @@
   "aboutGreeting": "Hi stranger. Welcome to chadshell.",
   "projects": [
     ["fuel-ts", "A TypeScript library for Fuel", "https://github.com/FuelLabs/fuel-ts"],
-    ["gerrehbenta", "A Uniswap CLI tool to analyze pool data", "https://github.com/maschad/gerrehbenta"],
+    ["fuel-core", "A Rust full node implementation of the Fuel v2 protocol.", "https://github.com/FuelLabs/fuel-core"],
     ["js-libp2p", "A peer-to-peer stack built for decentralized networks", "https://github.com/libp2p/js-libp2p"],
     ["lodestar", "An Ethereum consensus client written in TypeScript", "https://github.com/ChainSafe/lodestar"],
     [
