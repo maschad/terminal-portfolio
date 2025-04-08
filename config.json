@@ -54,6 +54,8 @@
     ]
   ],
   "talks": [
+    ["Why Decentralization Matters", "February 2025", "https://www.youtube.com/watch?v=HosI6dcK9EE"],
+    ["Infrastructure and P2P", "February 2025", "https://www.youtube.com/watch?v=vWB1tQSox6A"],
     ["State of js-libp2p in the browser and mobile", "November 2023", "https://www.youtube.com/watch?v=49p3VtTbXko"],
     ["create-libp2p: Your P2P Network Your Way", "November 2024", "https://www.youtube.com/watch?v=kuiJjTxyvA0"]
   ],
