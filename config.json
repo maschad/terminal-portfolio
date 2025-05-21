@@ -19,21 +19,17 @@
   },
   "aboutGreeting": "Hi stranger. Welcome to chadshell.",
   "projects": [
-    ["fuel-ts", "A TypeScript library for Fuel", "https://github.com/FuelLabs/fuel-ts"],
+    ["rust-libp2p", "A peer-to-peer stack built for decentralized networks in Rust", "https://github.com/libp2p/rust-libp2p"],
+    ["junkanoo", "A p2p ephemeral file sharing browser in the terminal", "https://github.com/maschad/junkanoo"],
     ["fuel-core", "A Rust full node implementation of the Fuel v2 protocol.", "https://github.com/FuelLabs/fuel-core"],
-    ["js-libp2p", "A peer-to-peer stack built for decentralized networks", "https://github.com/libp2p/js-libp2p"],
+    ["js-libp2p", "A peer-to-peer stack built for decentralized networks in TS", "https://github.com/libp2p/js-libp2p"],
     ["lodestar", "An Ethereum consensus client written in TypeScript", "https://github.com/ChainSafe/lodestar"],
     [
       "zekvm-circuits",
       "Zero-knowledge circuits for Ethereum's virtual machine",
       "https://github.com/privacy-scaling-explorations/zkevm-circuits"
     ],
-    ["partnr", "A decentralized savings platform", "https://github.com/maschad/partnr"],
-    [
-      "covid19-banned-flights",
-      "Shows which countries were not accepting flights during the COVID-19 pandemic",
-      "https://github.com/maschad/covid19-banned-flights"
-    ]
+    ["more...", "https://github.com/maschad"]
   ],
   "articles": [
     [
